@@ -171,7 +171,6 @@ img {
     background-color: #fff;
     width: 42px;
     height: 5px;
-    
 }
 
 .nav-button-icon::after {
@@ -183,7 +182,6 @@ img {
     background-color: #fff;
     width: 42px;
     height: 5px;
-    
 }
 
 .nav-button-close .nav-button-icon {
@@ -206,7 +204,6 @@ img {
     top: 0;
     right: 0;
     display: none;
-    /* display: flex; */
     flex-direction: column;
     justify-content: space-between;
     width: 320px;
@@ -268,7 +265,6 @@ img {
     width: 72px;
     height: 2px;
     background-color: #FBD784;
-
 }
 
 .hero-title {
@@ -441,7 +437,6 @@ img {
 .footer-copyright {
     display: flex;
     flex-direction: column;
-
 }
 
 .footer-copyright-logo {
@@ -466,7 +461,6 @@ img {
 
 .footer-nav-wrapper {
     display: flex;
-
 }
 
 .footer-nav + .footer-nav {
@@ -504,8 +498,8 @@ img {
     text-decoration: none;
     position: relative;
     padding-bottom: 5px;
-
 }
+
 .footer-nav-title {
     margin-bottom: 24px;
     font-style: normal;
