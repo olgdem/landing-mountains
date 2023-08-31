@@ -7,7 +7,7 @@ body {
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
     background-color: #0B1D26;
-    background-image: url('/images/main-image.jpg');
+    background-image: url('images/main-image.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
     color: #fff;
@@ -135,7 +135,7 @@ img {
     transform: translateY(-50%);
     width: 20px;
     height: 20px;
-    background-image: url(/images/account.svg);
+    background-image: url(images/account.svg);
     background-size: contain;
 }
 
@@ -298,7 +298,7 @@ img {
     transform: translateY(-50%);
     width: 16px;
     height: 24px;
-    background-image: url(/images/arrow_down.svg);
+    background-image: url(images/arrow_down.svg);
 }
 
 /* MAIN */
@@ -410,7 +410,7 @@ img {
     transform: translateY(-50%);
     width: 24px;
     height: 16px;
-    background-image: url(/images/arrow_right.svg);
+    background-image: url(images/arrow_right.svg);
 }
 
 .article-img img {
