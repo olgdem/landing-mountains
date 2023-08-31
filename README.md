@@ -1,6 +1,6 @@
 # landing-mountains
 
-## Site address: https://incredible-gelato-12914a.netlify.app/
+## Site address: https://olgdem.github.io/landing-mountains/
 
 This site I made to practice data attributes, work with background and adaptive designe.
 I used:
